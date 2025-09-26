@@ -1,6 +1,6 @@
-##InventoSync
+## InventoSync
 
-#Real-Time Inventory & Order Management
+# Real-Time Inventory & Order Management
 
 This project is a Salesforce-based Inventory and Order Management System. It is designed for small e-commerce or retail businesses to efficiently manage products, customers, sales orders and stock levels in real-time.
 
