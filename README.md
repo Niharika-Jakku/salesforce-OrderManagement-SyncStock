@@ -1,4 +1,4 @@
-## InventoSync
+# InventoSync
 
 # Real-Time Inventory & Order Management
 
@@ -6,7 +6,7 @@ This project is a Salesforce-based Inventory and Order Management System. It is 
 
 InventoSync Demo Video: https://drive.google.com/file/d/122B0WARAsWbfEiFum8YkauWqEKQ1iHI2/view?usp=drive_link
 
-🔹 Key Features
+## Key Features
 
 Data Modeling: Custom objects for Products, Sales Orders and Sales Order Items.
 
@@ -20,7 +20,7 @@ Apex Logic: Triggers to check stock availability and prevent overselling.
 
 Scalable Design: Easily extendable with dashboards, reports and integrations.
 
-🔹 Tech Stack
+## Tech Stack
 
 Salesforce Platform (Custom Objects, Flows, Apex, Permission Sets, Profiles)
 
@@ -28,7 +28,7 @@ Lightning UI (Page Layouts, Compact Layouts, Tabs)
 
 Declarative + Programmatic Automation
 
-🔹 Demo Workflow
+## Demo Workflow
 
 Inventory Manager creates or updates products with stock levels.
 
@@ -38,7 +38,7 @@ The system automatically fetches prices, calculates totals, and updates stock.
 
 Warehouse Manager can monitor stock levels but cannot edit products.
 
-🔹 Purpose
+## Purpose
 
 This project demonstrates how Salesforce can be customized into a complete business solution, covering:
 
